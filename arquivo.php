@@ -1,6 +1,6 @@
 <form>
-	<label>Login:</label></br>
-		<input type="text" name="login"/>
-	<label>Senha:</label></br>
+	<label>Login:</label>
+		<input type="text" name="login"/></br>
+	<label>Senha:</label>
 		<input type="text" name="senha"/>
 </form>
